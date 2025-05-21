@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744798001 source:c:\users\adnan\onedrive\desktop\c++\mph to kph\mph\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

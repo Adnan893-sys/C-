@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1746548033 source:c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\cashier.cpp
+	<iostream>
+	<iomanip>
+	"cashier.h"
+
+1746544901 c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\cashier.h
+
+1746548270 source:c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\main.cpp
+	<iostream>
+	"cashier.h"
+	"invmenu.h"
+	"bookinfo.h"
+	"reports.h"
+
+1746546524 source:c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\bookinfo.cpp
+	<iostream>
+	"bookinfo.h"
+
+1746546608 c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\bookinfo.h
+
+1746659376 source:c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\invmenu.cpp
+	<iostream>
+	"invmenu.h"
+
+1746546604 c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\invmenu.h
+
+1746546547 source:c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\reports.cpp
+	<iostream>
+	"reports.h"
+
+1746546612 c:\users\adnan\onedrive\desktop\23\book seller\1_main\book\reports.h
+
